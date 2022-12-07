@@ -10,28 +10,23 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+You will need to install Dash library to run the Dashboard app locally. Otherwise, there should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using a dataset about obesity and lifestyle habits created by researchers in Colombia, Peru and Mexico (Mendoza Palechor F and De La Hoz, 2019, see Kaggle link below) to better understand:
+This is my capstone project for the IBM Data Science Professional certificate, which I completed in August 2022. Here, we run a complete Data Science process from data collection, wrangling, visualization, modeling, evaluation and deployment with the aim to visualize and predict succesfull SpaceX launches.
 
-1. What factors do have a higher influence on becoming overweight (i.e, what factors better predict a high Body Mass Index): lifestyle habits or the genetic makeup of the individual?
-2. Among lifestyle habits, which are more strongly associated with overweight: eating habits or an inactive (i.e. lack of physical exercise) lifestyle?
-3. Can fasting be a useuful approach for weight management?
-
+Essentially, the question that we pursued in this project was: what factors do predict better a succesfull SpaceX rocket launch, meaning launch and subsequent landing? The features we analyzed included rocket characteristics and launch localization.
 
 ## File Descriptions <a name="files"></a>
 
-There is a notebook available here to showcase work related to the above questions.  The notebook contains the data wrangling, visualization and modeling process.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
+There are several Jupyter notebooks, one Dash app python file and a pdf report. Files are numbered sequentially following the specific Data Science stage to which they correspond.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://jvros.com.es/index.php/en/on-the-roots-of-overweight-nature-or-nurture/).
+The final report can be found in the file named 'capstone-story-report.pdf'.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link where the dataset is available [here](https://www.kaggle.com/code/mpwolke/obesity-levels-life-style/notebook). 
-There are also 2 research papers describing the creation of the dataset (see 'References' section at the end of the notebook).
+The dataset was sourced by IBM and usage permissions should be enquiried directly to them. 
 Otherwise, feel free to use the code here as you would like! 
