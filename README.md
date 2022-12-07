@@ -1,5 +1,3 @@
-# ds-ibm-coursera-applied-project
-
 ### Table of Contents
 
 1. [Installation](#installation)
